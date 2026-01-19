@@ -1,6 +1,6 @@
 \# Fake News Detection using NLP \& Machine Learning
 
-This project detects whether a news article is \*\*Fake\*\* or \*\*Real\*\* using
+This project detects whether a news article is Fake or Real using
 Natural Language Processing and Machine Learning techniques.
 
 \## Technologies Used
@@ -18,4 +18,5 @@ Natural Language Processing and Machine Learning techniques.
 &nbsp;  python train\_model.py
 
 3\. Run app
+
 &nbsp;  streamlit run app.py
